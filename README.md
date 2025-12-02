@@ -1,2 +1,2 @@
-# RukkyB
-MGMT 240
+# Portfolio
+Portfolio Showcasing R Projects
