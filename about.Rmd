@@ -1,52 +1,49 @@
 
----
-title: "About Me"
----
+# About VI Accounting Inc.
 
-## Background
+## Who We Are
+VI Accounting Inc. is a Vancouver Island–based accounting firm committed to providing accurate, reliable, and accessible financial solutions for individuals, entrepreneurs, and small businesses.  
+Our goal is to simplify financial complexity and empower our clients to make confident, informed decisions.
 
-I'm a second-year student at VIU, developing skills 
-in data analysis, business intelligence, and statistical computing.
-
-## Skills & Tools
-
-**Analysis:**
-
-- R for data analysis
-- Data cleaning and transformation
-- Statistical analysis and interpretation
-
-**Visualization & Reporting:**
-
-- ggplot2 for professional visualizations
-- R Markdown for reproducible reports
-- Data storytelling for business audiences
-
-**Data Sources:**
-
-- CSV file processing
-- Government open data (via APIs)
-- Business performance datasets
-
-## Education
-
-**VIU** - E-Management Program  
-*Expected Graduation: [Year]*
-
-Relevant Coursework:
-
-- Data Analysis for E-Management
-- Business Statistics
-- Information Systems
-
-## Contact
-
-Feel free to connect with me:
-
-- Email: [business.man@hotmail.com](mailto:your.email@example.com)
-- LinkedIn: [Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [RukkyBex](https://github.com/yourusername)
+## Our Mission
+To deliver high-quality accounting, tax, and advisory services with integrity, transparency, and a client-focused approach.  
+We believe strong financial foundations lead to stronger businesses and communities.
 
 ---
+
+# Our Services
+
+### **1. Financial Accounting & Bookkeeping**
+- Monthly transaction recording and reconciliation  
+- Financial statements (Balance Sheet, Income Statement, Cash Flow)  
+- Year-end preparation  
+
+### **2. Tax Services**
+- Personal and corporate tax returns  
+- GST/PST filings  
+- Tax planning strategies to legally minimize tax burden  
+
+### **3. Business Advisory & Planning**
+- Budgeting and forecasting  
+- Cash flow analysis  
+- Profitability improvement  
+- Startup guidance and business structure recommendations  
+
+### **4. Management Reporting**
+- KPI dashboards  
+- Variance analysis  
+- Customized internal financial reports  
+
+---
+
+# Who We Serve
+
+Our clients include:
+- **Small business owners** needing reliable bookkeeping and tax support  
+- **Entrepreneurs and startups** looking for guidance as they grow  
+- **Self-employed professionals** requiring clean, accurate financial records  
+- **Individuals** seeking tax preparation and financial clarity  
+
+At VI Accounting Inc., we tailor every service to the unique needs of each client.
 
 [← Back to Home](index.html)

@@ -1,56 +1,40 @@
 
----
-title: "My Projects"
----
+# Project
 
-## Data Analysis Projects
-
-Here are some of my key projects demonstrating various data analysis skills.
-
-### Project 1: Government Data Analysis
-
-**Objective:** Analyze public datasets to extract business insights
-
-**Key Skills:**
-
-- API data access
-- Data quality assessment
-- Aggregation and summarization
-- Business recommendation development
-
-[View detailed analysis →](project1.html)
+Here are examples of how VI Accounting Inc. supports clients through accurate financial reporting, tax planning, and business advisory services.
 
 ---
 
-### Project 2: Business Performance Dashboard
+## **Case Study 1: Streamlining Bookkeeping for a Local Café**
 
-**Objective:** Clean and analyze operational data to identify performance 
-patterns
+**Client:** Pacific Brew Café  
+**Challenge:**  
+The café struggled with inconsistent bookkeeping, missed receipts, and unclear monthly financial results.
 
-**Key Skills:**
+**What We Did:**  
+- Implemented a new bookkeeping workflow  
+- Cleaned up past transactions and reconciled bank accounts  
+- Created monthly financial statements  
+- Provided a cash flow tracker for better planning  
 
-- CSV data processing
-- Missing data handling
-- Data visualization
-- Executive reporting
-
-[View detailed analysis →](project2.html)
+**Outcome:**  
+The café now receives timely and accurate financial reports and has seen a **15% improvement in cash flow management**.
 
 ---
 
-### Project 3: Statistical Exploration
+## **Case Study 2: Tax Planning for a Self-Employed Contractor**
 
-**Objective:** Explore relationships in real-world datasets
+**Client:** Independent construction contractor  
+**Challenge:**  
+The client faced high year-end tax payments due to poor planning and missing deductions.
 
-**Key Skills:**
+**What We Did:**  
+- Reviewed expense categories and identified missed deductions  
+- Introduced quarterly installment planning  
+- Created a tax strategy to minimize liabilities  
 
-- Exploratory data analysis
-- Correlation analysis
-- Professional visualization
-- Insight communication
-
-[View detailed analysis →](project3.html)
-
+**Outcome:**  
+The client reduced their annual tax bill by **20%** and gained a clear roadmap for future filings.
 ---
 
 [← Back to Home](index.html)

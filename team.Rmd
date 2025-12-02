@@ -1,56 +1,38 @@
 
----
-title: "My Projects"
----
+# Our Team
 
-## Data Analysis Projects
-
-Here are some of my key projects demonstrating various data analysis skills.
-
-### Project 1: Government Data Analysis
-
-**Objective:** Analyze public datasets to extract business insights
-
-**Key Skills:**
-
-- API data access
-- Data quality assessment
-- Aggregation and summarization
-- Business recommendation development
-
-[View detailed analysis →](project1.html)
+VI Accounting Inc. is powered by a collaborative team of accounting students committed to accuracy, professionalism, and continuous learning.
 
 ---
 
-### Project 2: Business Performance Dashboard
-
-**Objective:** Clean and analyze operational data to identify performance 
-patterns
-
-**Key Skills:**
-
-- CSV data processing
-- Missing data handling
-- Data visualization
-- Executive reporting
-
-[View detailed analysis →](project2.html)
+## **Ana Armas – Accounting Lead**
+- Specializes in financial accounting and budgeting  
+- Strong analytical skills and experience with Excel and data visualization  
+- Interest in managerial accounting and cost analysis  
 
 ---
 
-### Project 3: Statistical Exploration
-
-**Objective:** Explore relationships in real-world datasets
-
-**Key Skills:**
-
-- Exploratory data analysis
-- Correlation analysis
-- Professional visualization
-- Insight communication
-
-[View detailed analysis →](project3.html)
+## **Chad Hubert – Tax Specialist**
+- Focus on preparing individual and small-business tax returns  
+- Knowledge of GST/PST regulations and compliance  
+- Detail-oriented and committed to accuracy in reporting  
 
 ---
+
+## **David Chen – Business Advisor**
+- Experience with cash flow analysis and forecasting  
+- Supports clients with financial planning and performance improvement  
+- Strong background in business analytics  
+
+---
+
+## **Dee Por – Bookkeeping Coordinator**
+- Manages bookkeeping records and monthly reconciliations  
+- Skilled in organizing financial data and preparing year-end files  
+- Ensures clients receive timely, accurate financial statements  
+
+---
+
+Together, our team delivers reliable, client-centered financial support to help every business thrive.
 
 [← Back to Home](index.html)
