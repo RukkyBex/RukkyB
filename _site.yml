@@ -9,5 +9,7 @@ navbar:
       href: about.html
     - text: "Projects"
       href: projects.html
+    - text: "team"
+      href: team.html
 output_dir: "docs"
 ---

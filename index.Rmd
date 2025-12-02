@@ -5,7 +5,7 @@ title: "Welcome to My Portfolio"
 
 ## Hello and Welcome!
 
-I'm [Your Name], and this is my portfolio. Here you'll find 
+We are Rukky, Ani, Sovandy and Hakim, and this is our portfolio. Here you'll find 
 projects showcasing my skills in:
 
 - Data cleaning and transformation
